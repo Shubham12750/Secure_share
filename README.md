@@ -39,8 +39,8 @@ Designed and created by **[B. Shubham](https://github.com/Shubham12750)**.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Shubham12750/secureshare.git
-cd secureshare
+git clone https://github.com/Shubham12750/Secure_share.git
+cd Secure_share
 ```
 
 ### 2. Install dependencies
